@@ -7,7 +7,6 @@ fun main(){
 
 class Person {
     var IsAdult: Boolean = false
-
     fun CanVote(){
         if(IsAdult){
             println("Can Vote")
