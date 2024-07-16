@@ -1,12 +1,12 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    var i = "Like normal variable"
-    val str = "This value will act as constant as it cant 't be changed"
-    var num: Number = 56
-    val booleanNumber: Boolean = false
-//    println(i)
-//    println(str)
-//    println(num)
-    println(booleanNumber)
+    var num1 = 5
+    var num2 = 7
+
+    println(num1+num2)
+    println(num1-num2)
+    println(num2/num1)
+    println(num2%num1)
+    println(num1>num2)
 }
