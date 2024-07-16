@@ -1,5 +1,5 @@
 fun main(){
-    var Person1 = Person();
+    val Person1 = Person();
 
     Person1.CanVote();
     Person1.MakePersonAdult();
