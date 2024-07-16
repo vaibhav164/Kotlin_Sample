@@ -3,7 +3,10 @@
 fun main() {
     var i = "Like normal variable"
     val str = "This value will act as constant as it cant 't be changed"
-
-    println(i)
-    println(str)
+    var num: Number = 56
+    val booleanNumber: Boolean = false
+//    println(i)
+//    println(str)
+//    println(num)
+    println(booleanNumber)
 }
