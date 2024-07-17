@@ -28,3 +28,10 @@ class MathTeacher(name:String, age:Int):Human(name,age){
     }
 }
 
+//Note the point that here if the instance of is created for derived class then from that instance we will be
+//able to access the parent class values or function
+/**********
+ * But if the instance is created for parent class then it will not be able to access the feature of derived class
+ *
+ *
+ * */
