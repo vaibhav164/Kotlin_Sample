@@ -8,7 +8,7 @@ fun main(){
     num.set(0,1111111);//this will set the value of num array 0th index from 23 to 1111111
     println(num[0])
 //    L8 is same as below line
-    num[0]=7777777;
+    num[0]=7777777; 
     println(num[0])
 
     //L8 and l11 will work same
